@@ -1,0 +1,8 @@
+{
+  "name": "bookclone",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:sundev207/facebook-clone-website.git",
+  "author": "Justin Padilla <sundev207.zakariae@gmail.com>",
+  "license": "MIT"
+}
